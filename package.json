@@ -1,0 +1,19 @@
+{
+  "name": "curso-dio",
+  "version": "1.0.0",
+  "description": "estudo sobre types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "Lite-server",
+    "watch": "tsc --watch"
+  },
+  "author": "Fabricio",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
